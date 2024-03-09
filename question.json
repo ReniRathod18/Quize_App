@@ -1,0 +1,83 @@
+[
+    {
+        "question":
+        "What does DOM stand for in JavaScript?",
+        "choice1": "Document Object Model",
+        "choice2": "Data Object Model",
+        "choice3": "Document Oriented Model",
+        "choice4": "Digital Object Model",
+        "answer":1
+    },
+    {
+       " question":"Which of the following is not a valid data type in JavaScript?",
+       "choice1":"Number",
+       "choice2":"Boolean",
+       "choice3":"Character",
+       "choice4":"Object",
+       "answer":2
+    },
+    {
+        "question":"What keyword is used to declare variables in JavaScript?",
+        "choice1":"dim",
+        "choice2":"let",
+        "choice3":"var",
+        "choice4":"const",
+        "answer":2
+    },
+    {
+        "question":"Which of the following is a correct way to write a comment in JavaScript?",
+        "choice1":"<!-- This is a comment -->",
+        "choice2":"// This is a comment",
+        "choice3":"/* This is a comment */",
+        "choice4":"This is a comment",
+        "answer":2
+    },
+    {
+        "question":"What method is used to add a new element at the end of an array in JavaScript?",
+        "choice1":"push()",
+        "choice2":"pop()",
+        "choice3":"append()",
+        "choice4":"add()",
+        "answer":1
+    },
+    {
+        "question":"Which function is used to print output in the console in JavaScript?",
+        "choice1":"console.out()",
+        "choice2":"console.log()",
+        "choice3":"print()",
+        "choice4":"output()",
+        "answer":2
+    },
+    {
+        "question":"What does the keyword 'this' refer to in JavaScript?",
+        "choice1":"The current function",
+        "choice2":"The global object",
+        "choice3":"The parent object",
+        "choice4":"The calling object",
+        "answer":4
+    },
+    {
+        "question":"What does the '===' operator do in JavaScript?",
+        "choice1":"Checks if two values are equal in value, but not necessarily in type",
+        "choice2":"Checks if two values are equal in value and type",
+        "choice3":"Checks if two values are not equal in value or type",
+        "choice4":"Checks if two values are strictly not equal",
+        "answer":2
+    },
+    {
+        "question":"What is the purpose of the 'return' statement in JavaScript functions?",
+        "choice1":"To exit the loop",
+        "choice2":"To declare a variable",
+        "choice3":"To assign a value",
+        "choice4":"To specify the value to be returned by the function",
+        "answer":4
+    },
+    {
+        "question":"What method is used to remove the last element from an array in JavaScript?",
+        "choice1":" pop()",
+        "choice2":"shift()",
+        "choice3":"remove()",
+        "choice4":" splice()",
+        "answer":1
+    }
+]
